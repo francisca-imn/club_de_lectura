@@ -24,7 +24,17 @@ Al abrirla vas a ver un formulario para agregar libros y una tabla con todo lo q
 
 ### El coronel no tiene quien le escriba
 
-<img src="figuras/el_coronel_no_tiene_quien_le_escriba.jpeg" alt="Portada de El coronel no tiene quien le escriba" width="220"/>
+<table>
+
+<tr>
+
+<td width="220" valign="top">
+
+<img src="figuras/el_coronel_no_tiene_quien_le_escriba.jpeg" alt="Portada de El coronel no tiene quien le escriba" width="200"/>
+
+</td>
+
+<td valign="top">
 
 **Autor:** Gabriel García Márquez **Leído:** 17 jul 2026 → 22 jul 2026 **Calificación:** ⭐⭐⭐☆☆ (3/5)
 
